@@ -6,7 +6,7 @@ It contains a form that registers the user and displays the info in a table afte
 
 ### `git clone https://github.com/boyankrst123/SignUpForm.git`
 
-### `cd sign-up-form-app`
+### `cd SignUpForm`
 
 ### `npm install`
 
